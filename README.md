@@ -1,1 +1,1 @@
-# GitTorrent The information manager from hell
+# The decentralized information manager from hell 😈
